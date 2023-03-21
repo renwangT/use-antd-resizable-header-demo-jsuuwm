@@ -12,7 +12,8 @@
     "@minko-fe/use-antd-resizable-header": "latest",
     "antd": "latest",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-drag-listview": "^2.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
